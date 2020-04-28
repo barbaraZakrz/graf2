@@ -1,0 +1,5 @@
+C:\Users\Lenovo\graf2\graf2\bin\Debug\graf2.exe
+C:\Users\Lenovo\graf2\graf2\bin\Debug\graf2.pdb
+C:\Users\Lenovo\graf2\graf2\obj\Debug\graf2.csprojAssemblyReference.cache
+C:\Users\Lenovo\graf2\graf2\obj\Debug\graf2.exe
+C:\Users\Lenovo\graf2\graf2\obj\Debug\graf2.pdb
