@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graf2", "graf2\graf2.csproj", "{73FD0B59-D9DD-4045-8089-62AE99F01688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FD0B59-D9DD-4045-8089-62AE99F01688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FD0B59-D9DD-4045-8089-62AE99F01688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FD0B59-D9DD-4045-8089-62AE99F01688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FD0B59-D9DD-4045-8089-62AE99F01688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
